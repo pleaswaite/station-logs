@@ -1,3 +1,15 @@
+2017-11-25
+------
+I noted that the dipole was looking a little more squirrely than usual. Further
+inspection showed that the North side counterweight was sitting on the ground -
+the South side anchor had slipped, though was still attached. I was able to raise
+the counterweight. It had a slight effect on the antenna, it also appears that
+there is a vine wrapped around the North side support rope which prevents the
+antenna from shifting much. This puts the North side end of the dipole very close
+to the tree. SWR seems okay, maybe a bit more narrow on 40 than usual but that
+could be the fact that the center has also slipped some. This antenna needs some
+work.
+
 2017-11-23
 ------
 Initial comments on the log. Currently the Cushcraft R7 has been erected in the
