@@ -1,3 +1,15 @@
+2017-12-22
+------
+Punched a 20' section of LMR-400 from my antenna switch, through the wall into
+the crawlspace under my stairs. I also drilled the exterior hole for it, but
+didn't run the coax outside because a) it was actively snowing and b) I had
+nothing to connect it to right that second. The hole was plugged with gaffer 
+tape, and is already protected from the weather as it comes under my stairs.
+
+Initial plans will be for a temporary 160m antenna to cover Stew Perry and the
+CQ 160m contests to use this coax, it'll be repurposed for the R7 once I run
+coax for that.
+
 2017-11-25
 ------
 I noted that the dipole was looking a little more squirrely than usual. Further
