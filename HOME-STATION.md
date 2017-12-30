@@ -1,3 +1,20 @@
+2017-12-29
+------
+Hung the 160m antenna today. My plans of it being really awful were correct, 
+it's un-tunable on anything below 21MHz - so likely I'm just tuning the feedline
+there. It's supposed to be a quarter wave vertical with a single radial, laying
+really low to the ground (5-6') fed with 75ohm RG6 coax aside from the first 20',
+and I have an air core choke there as well.
+
+Theories on the problem:
+ * Air core choke is too close to the house and is coupling
+ * The really terrible wire (18AWG solid core, a bear to work with) has a break
+ * Mixing 50 ohm and 75ohm coax was a worse idea than I thought it'd be, and I 
+   thought it'd be pretty bad.
+
+Guess I'll have to poke at it and see what I can do, though since this means
+I'm missing out on the Stew and will be down to a single 160m contest to try.
+
 2017-12-22
 ------
 Punched a 20' section of LMR-400 from my antenna switch, through the wall into
